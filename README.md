@@ -37,7 +37,7 @@ Everything runs automatically, creating **self-sufficient, ready-to-use workstat
 | Parameter               | Value / Action                                                                                                                                                                                                                                 |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Workflow Trigger        | Manual, enter **Auth Code** of GCRD ✋                                                                                                                                                                                                          |
-| Secrets Required        | `ENIGMANO_ACCESS_TOKEN` 🔐 *(retrievable from official YouTube guide)*                                                                                                                                                                         |
+| Secrets Required        | `ENIGMANO_ACCESS_TOKEN` 🔐 *(retrievable from official [**YouTube guide**](https://bit.ly/Win10-GCRD-with-Sound))*                                                                                                                                                                         |
 | Chrome & Brave Profiles | 3 isolated profiles per browser 🖥️                                                                                                                                                                                                            |
 | Extensions Installed    | WebRTC Protect 🛡️, Video Quality Settings 🎥, Random YouTube Video 🎲, Proton VPN 🔒, Stop Autoplay Next ⏹️, YouTube Nonstop 🔁, uBlock Origin 🚫, Ghostery 👻, Tab Auto Refresh 🔄, Adguard, IDM Integration Module, YouTube Ad Auto Skipper |
 | Secure Access           | RDP enabled, firewall configured, Chrome Remote Desktop (Headless Auth) 🌐                                                                                                                                                                     |
@@ -49,7 +49,7 @@ Everything runs automatically, creating **self-sufficient, ready-to-use workstat
 ## 🔐 Prerequisites 🛡️
 
 * GitHub secrets configured:  
-  * `ENIGMANO_ACCESS_TOKEN` 🔑 *(from YouTube tutorial — mandatory for execution)*  
+  * `ENIGMANO_ACCESS_TOKEN` 🔑 *(from [**YouTube tutorial**](https://bit.ly/Win10-GCRD-with-Sound) — mandatory for execution)*   
 
 ---
 
